@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.6.4.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: frippery.org.busybox64a-w32
+PackageVersion: 1.37.0-FRP-5398-g89ae34445
+PackageLocale: en-US
+Publisher: frippery.org
+PackageName: busybox64a-w32
+License: GPLv2
+Copyright: (C) 1998-2022 Many authors
+ShortDescription: BusyBox multi-call binary
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

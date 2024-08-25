@@ -1,0 +1,8 @@
+# Created using wingetcreate 1.6.4.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.6.0.schema.json
+
+PackageIdentifier: frippery.org.busybox64u-w32
+PackageVersion: 1.37.0-FRP-5398-g89ae34445
+DefaultLocale: en-US
+ManifestType: version
+ManifestVersion: 1.6.0

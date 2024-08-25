@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.6.4.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: frippery.org.busybox64a-w32
+PackageVersion: 1.37.0-FRP-5398-g89ae34445
+InstallerType: portable
+Commands:
+- busybox
+Installers:
+- InstallerUrl: https://frippery.org/files/busybox/busybox64a.exe
+  Architecture: arm64
+  InstallerSha256: 489F95AE78073CD398A42EBCE42469F6BCCF55F9A5511A7D57438869F1A71DC8
+ManifestType: installer
+ManifestVersion: 1.6.0
