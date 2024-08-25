@@ -1,0 +1,15 @@
+xemdetia/winget
+
+This is an experimental repository based on the fact that currently upstream there is no packaging of [[https://frippery.org/busybox/][busybox64a]] and busybox64u that we could understand. This repository was created by using [[https://github.com/microsoft/winget-create][microsoft/winget-create]] and using the =wingetcreate new= wizard to create the YAMLs.
+
+Currently there are multiple solutions for [[https://github.com/microsoft/winget-pkgs/blob/master/doc/README.md#authoring-a-manifest][authoring a manifest]]:
+#+begin_src org
+  ,** Authoring a Manifest
+
+  A few different tools are available to help you author a manifest.
+
+  - [[https://github.com/microsoft/winget-create][Windows Package Manager Manifest Creator]]
+  - [[https://github.com/microsoft/winget-pkgs/blob/master/doc/tools/YamlCreate.md][YamlCreate.ps1]]
+  - Other WinGet Manifest Creators developed by the community:
+    - [[https://github.com/russellbanks/Komac][Komac - Community Manifest Creator]] (maintained by [[https://github.com/russellbanks][*@russellbanks*]])
+#+end_src
